@@ -1,10 +1,10 @@
 :root {
     --primaryText: #fff;
     --secondaryText: #2a7733;
-    --primary: rgba(39, 176, 133, 0.6);
-    --secondary: rgba(15, 10, 119, 0.6); 
+    --primary: rgba(12, 146, 104, 0.907);
+    --secondary: rgb(145, 58, 0); 
     --buttonHover: rgb(157, 211, 154);
-    --smallButtonHover: rgba(0, 0, 0, .25);
+    --smallButtonHover: rgb(242, 133, 0);
 }
 
 html {
@@ -34,7 +34,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: 'Jost', Futura, Verdana, sans-serif;
+    font-family: "Lora", serif;
     line-height: 1.5;
     font-size: 18px;
     display: flex;
