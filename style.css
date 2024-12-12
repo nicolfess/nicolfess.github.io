@@ -41,7 +41,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    opacity: 0.3;
+
 }
 
 h1 {
@@ -61,6 +61,7 @@ img {
     max-width: 100%;
     object-fit: cover;
     /* Resizes the image to cover the entire container */
+    opacity: 0.3;
 }
 
 .container {
