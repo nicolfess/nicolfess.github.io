@@ -41,6 +41,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    opacity: 0.3;
 }
 
 h1 {
@@ -88,7 +89,7 @@ img {
 }
 
 .name strong {
-    background-color: rgba(0, 0, 0, 0.50);
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 .section-header {
